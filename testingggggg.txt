@@ -1,0 +1,1 @@
+pull ther data from remote local ec2 instance local repo
